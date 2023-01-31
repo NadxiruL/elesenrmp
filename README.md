@@ -1,5 +1,10 @@
 # sistem_jabatan_pertanian
 
+# login credentials
+
+# username = user / admin
+# password = user / admin
+
 A new Flutter project.
 
 ## Getting Started
